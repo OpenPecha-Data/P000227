@@ -1,0 +1,37 @@
+ebook_metadata:
+  title: ༄༅། །སྡོམ་གསུམ་རྩ་འགྲེལ་གྱི་སྐོར་བཞུགས་སོ།
+  authors:
+  - མཛད་པ་པོ། མཁན་ཆེན་ཡོན་ཏན་རྒྱ་མཚོ།
+  sku: SHE-013
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: A Presentation of Root Texts and Commentaries on the Three Vows
+    bo: སྡོམ་གསུམ་རྩ་འགྲེལ་གྱི་སྐོར་བཞུགས་སོ།
+  collection:
+    en: Shechen Tantra Series–  Book 13
+    bo: ''
+  author:
+    en: Khenchen Yonten Gyatso
+    bo: མཁན་ཆེན་ཡོན་ཏན་རྒྱ་མཚོ།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-013
+  category:
+    en: Three Vows
+    bo: སྡོམ་གསུམ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-013.epub
+  description:
+    en: ''
+    bo: ''
