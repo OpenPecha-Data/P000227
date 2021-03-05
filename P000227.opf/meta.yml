@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000227
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །སྡོམ་གསུམ་རྩ་འགྲེལ་གྱི་སྐོར་བཞུགས་སོ།
   authors:
   - མཛད་པ་པོ། མཁན་ཆེན་ཡོན་ཏན་རྒྱ་མཚོ།
-  sku: SHE-013
   layers:
   - book_title
   - author
   - chapter_title
   - quotation
   - sabche
+  id: SHE-013
 web_metadata:
   title:
     en: A Presentation of Root Texts and Commentaries on the Three Vows
